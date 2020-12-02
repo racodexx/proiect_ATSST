@@ -1,0 +1,44 @@
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe.config
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.pdb
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csprojAssemblyReference.cache
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csproj.CoreCompileInputs.cache
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.exe
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.pdb
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\Models.dll
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\nunit.framework.dll
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\Models.pdb
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\nunit.framework.pdb
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\nunit.framework.xml
+C:\Users\Ionut Dinca\source\repos\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csproj.CopyComplete
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe.config
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\Models.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\nunit.framework.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\Models.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\nunit.framework.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\bin\Debug\nunit.framework.xml
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csprojAssemblyReference.cache
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csproj.CoreCompileInputs.cache
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csproj.CopyComplete
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.exe
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\NUnit3.TestAdapter.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\nunit.engine.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\nunit.engine.api.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\nunit.engine.core.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe.config
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\Models.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\nunit.framework.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\Models.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\nunit.framework.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\bin\Debug\nunit.framework.xml
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csprojAssemblyReference.cache
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csproj.CoreCompileInputs.cache
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.csproj.CopyComplete
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.exe
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.pdb
