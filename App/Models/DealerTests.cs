@@ -100,7 +100,7 @@ namespace Models
         {
             int initialCarsCount = dealer.Cars.Count;
             Car newCar = new Car(
-                 "AAA003",
+                 "AAA007",
                 "BMW",
                 "X1",
                 DateTime.Now,
@@ -137,19 +137,5 @@ namespace Models
         {
             Assert.IsTrue(dealer.GetTotalValue() == 241000);
         }
-
-        [Test]
-        public void Test_GetTotalValueWithMaxDate()
-        {
-            double res = dealer.GetTotalValue(DateTime.Now.AddMonths(-2));
-            Assert.AreEqual(res, 122000);
-        }
-
-        [Test]
-        public void Test_GetTotalValueWithMaxDateWithNoResults()
-        {
-            Assert.IsTrue(dealer.GetTotalValue(DateTime.Now.AddMonths(-8)) == 0);
-        }
-
     }
 }

@@ -162,5 +162,15 @@ namespace Models
             Assert.AreEqual(market.AddDealers(new List<Dealer> { dealer1, dealerTest2, dealerTest3 }), 2);
         }
 
+        [Test]
+        public void Test_RemoveDealer()
+        {
+            Assert.IsTrue(market.RemoveDealer("D2"));
+        }
+        [Test]
+        public void Test_RemoveNonExistentDealer()
+        {
+            Assert.IsFalse(market.RemoveDealer("D92"));
+        }
     }
 }

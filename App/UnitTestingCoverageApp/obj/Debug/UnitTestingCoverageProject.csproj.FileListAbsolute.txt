@@ -16,3 +16,22 @@ D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCo
 D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageProject.csproj.CopyComplete
 D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.exe
 D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\UnitTestingCoverageApp - Copy\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\NUnit3.TestAdapter.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\nunit.engine.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\nunit.engine.api.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\nunit.engine.core.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe.config
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.exe
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\UnitTestingCoverageApp.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\Models.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\nunit.framework.dll
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\Models.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\nunit.framework.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\nunit.framework.xml
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageProject.csprojAssemblyReference.cache
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageProject.csproj.CoreCompileInputs.cache
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageProject.csproj.CopyComplete
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.exe
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\obj\Debug\UnitTestingCoverageApp.pdb
+D:\Scoala\info\Master\An II\S1\Automatic Tech of Soft Syst Testing\Proiect\proiect_ATSST\App\UnitTestingCoverageApp\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll

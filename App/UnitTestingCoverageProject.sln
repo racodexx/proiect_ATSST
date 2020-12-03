@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingCoverageProject"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{78F684E1-08C1-4115-825B-52BA4D6FE366}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsMSTestv2", "ModelsMSTestv2\ModelsMSTestv2.csproj", "{C25F897E-7EF3-4632-ADE7-7AD792FAF7EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{78F684E1-08C1-4115-825B-52BA4D6FE366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78F684E1-08C1-4115-825B-52BA4D6FE366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78F684E1-08C1-4115-825B-52BA4D6FE366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25F897E-7EF3-4632-ADE7-7AD792FAF7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25F897E-7EF3-4632-ADE7-7AD792FAF7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25F897E-7EF3-4632-ADE7-7AD792FAF7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25F897E-7EF3-4632-ADE7-7AD792FAF7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -55,22 +55,12 @@ namespace Models
             return (cars != null && cars.Count > 0) ? cars.Count : 0;
         }
 
-        public double GetTotalValue(DateTime? onlyBeforeFabDate = null)
+        public double GetTotalValue()
         {
             double totalValue = 0;
             foreach (Car car in Cars)
             {
-                if (onlyBeforeFabDate != null)
-                {
-                    if (car.FabDate < onlyBeforeFabDate)
-                    {
-                        totalValue += car.Price;
-                    }
-                }
-                else
-                {
-                    totalValue += car.Price;
-                }
+                totalValue += car.Price;
             }
             return totalValue;
         }

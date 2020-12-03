@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    class Market
+    public class Market
     {
         public string Id { get; set; }
         public string Name { get; set; }
@@ -44,6 +44,17 @@ namespace Models
                 }
             }
             return dealersAdded;
+        }
+
+        public bool RemoveDealer(string id)
+        {
+            int index = Dealers.FindIndex(x => x.Id == id);
+            if (index > 0)
+            {
+                Dealers.RemoveAt(index);
+                return true;
+            }
+            return false;
         }
 
     }
